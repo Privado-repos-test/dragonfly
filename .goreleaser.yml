@@ -11,7 +11,7 @@ before:
 builds:
   - main: ./cmd/dfget
     id: dfget
-    binary: dfget
+    binary: dfget 
     goos:
       - linux
       - darwin
